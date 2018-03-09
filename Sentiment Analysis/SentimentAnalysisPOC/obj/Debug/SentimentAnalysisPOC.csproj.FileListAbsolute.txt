@@ -1,0 +1,16 @@
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\SentimentAnalysisPOC.exe.config
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\SentimentAnalysisPOC.exe
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\SentimentAnalysisPOC.pdb
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Microsoft.Azure.CognitiveServices.Language.dll
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Microsoft.Azure.CognitiveServices.Language.xml
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\obj\Debug\SentimentAnalysisPOC.csprojResolveAssemblyReference.cache
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\obj\Debug\SentimentAnalysisPOC.csproj.CoreCompileInputs.cache
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\obj\Debug\SentimentAnalysisPOC.csproj.CopyComplete
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\obj\Debug\SentimentAnalysisPOC.exe
+C:\Users\Slin11\source\repos\SentimentAnalysisPOC\SentimentAnalysisPOC\obj\Debug\SentimentAnalysisPOC.pdb
