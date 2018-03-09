@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{00EFE287-30A4-4311-B344-CDC5009B50D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldBot/Dialogs/RootDialog.cs">
+    <Files>
+      <File FileName="HelloWorldBot/Dialogs/RootDialog.cs" Line="41" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorldBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
